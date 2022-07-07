@@ -1,5 +1,5 @@
 # NaiveBayes
-The Naive Bayes algorithm is used to classify given items into appropriate categories based on their description and name. 
+The Naive Bayes algorithm is used to classify given items into appropriate categories based on their description and name. The report can be found in AI-CA2.ipynb
 
 ## Requirements
 You need to install ```hazm``` and ```parsivar``` libraries with the following commands:
